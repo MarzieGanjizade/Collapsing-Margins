@@ -1,0 +1,11 @@
+div{
+    width: 100%;
+    background-color: aqua;
+    margin-top:60px;
+}
+p{
+    width: 50%;
+    background-color: rgb(104, 216, 34);
+    margin-top:-30px;
+}
+/* the code above, one margin is negetive and one margin is positive, both are sum and margin is 30px ---->collapsing margin*/
